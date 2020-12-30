@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountctnzeba3f;AccountKey=VPZhDeOXuF15EM345nsTGmrVXxS5qN+0cYlJW37L9fH+YY2f0y20pX05lv4k+8TqXHnrsS4kqhhJ+6ghMe/H4Q==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "MAIN_CLASS":"cloud.practice.trigger.time.AzureTimeTriggerDemoApplication"
+  }
+
+}
