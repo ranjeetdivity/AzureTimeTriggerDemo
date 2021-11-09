@@ -11,7 +11,7 @@ plugins {
 }
 
 group = "cloud.practice"
-version = "0.0.1-SNAPSHOT"
+version = "0.0.2-SNAPSHOT"
 val appName = "azureTimeTriggerDemo"
 val appVer = version
 java.sourceCompatibility = JavaVersion.VERSION_11
